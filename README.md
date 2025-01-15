@@ -1,4 +1,4 @@
-# SecPatch
+ # SecPatch
 
 [SecPatch](SecPatch) provides a curated list of CVEs that organizations should prioritize for remediation from the following high-quality open-source data sources:
 
